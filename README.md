@@ -4,6 +4,8 @@
 
 ### Ecological Applications (*In Press*)
 
+### Code and Data DOI: [10.17605/OSF.IO/43PVJ](https://doi.org/10.17605/OSF.IO/43PVJ)
+
 ### Please contact the first author for questions about the code or data: Erin R. Zylstra (ezylstra@email.arizona.edu)
 _______________________________________________________________________________________________________________________________________
 
