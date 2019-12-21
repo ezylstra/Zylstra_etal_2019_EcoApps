@@ -2,7 +2,7 @@
 
 ### Erin R. Zylstra, Don E. Swann, Blake R. Hossack, Erin Muths, and Robert J. Steidl
 
-### Ecological Applications 29(3):e01859
+### Ecological Applications 29(3):e01859 [10.1002/eap.1859](https://doi.org/10.1002/eap.1859)
 
 ### Code and Data DOI: [10.17605/OSF.IO/43PVJ](https://doi.org/10.17605/OSF.IO/43PVJ)
 
