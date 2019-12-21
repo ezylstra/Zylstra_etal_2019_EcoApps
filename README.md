@@ -2,11 +2,11 @@
 
 ### Erin R. Zylstra, Don E. Swann, Blake R. Hossack, Erin Muths, and Robert J. Steidl
 
-### Ecological Applications (*In Press*)
+### Ecological Applications 29(3):e01859
 
 ### Code and Data DOI: [10.17605/OSF.IO/43PVJ](https://doi.org/10.17605/OSF.IO/43PVJ)
 
-### Please contact the first author for questions about the code or data: Erin R. Zylstra (ezylstra@email.arizona.edu)
+### Please contact the first author for questions about the code or data: Erin R. Zylstra (erinzylstra@gmail.com)
 _______________________________________________________________________________________________________________________________________
 
 ## Abstract:
